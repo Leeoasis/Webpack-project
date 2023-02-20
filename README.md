@@ -1,6 +1,6 @@
 # 📗 Table of Contents
 
-- [📖 About the Project](#Awesome books)
+- [📖 About the Project](#Webpack-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#html-css)
     - [Key Features](#home-page)
@@ -20,7 +20,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-**[Awesome-books]** is a website that basically displays a list of the user favourite books. It has a function to add new books or remove any unwanted books from the list.
+**[Webpack-project]** is a website that basically provides a template for webpack.
 
 ## 🛠 Built With <a name="html, css and JavaScript"></a>
 
@@ -48,8 +48,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Add-books-section]**
-- **[Book-display]**
+- **[dist-folder]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -65,7 +64,7 @@ To get a local copy up and running, follow these steps.
 
 ### Setup
 
-Clone this repository to your desired folder using the following command; git clone https://github.com/Leeoasis/Awesome-books.git
+Clone this repository to your desired folder using the following command; git clone https://github.com/Leeoasis/Webpack-project.git
 ### Run tests
 
 To run tests, run the following command: npx hint . and npx stylelint "\*_/_.{css,scss}" and npx eslint .
@@ -99,7 +98,7 @@ To run tests, run the following command: npx hint . and npx stylelint "\*_/_.{cs
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Leeoasis/Awesome-books/issues).
+Feel free to check the [issues page](https://github.com/Leeoasis/Webpack-project/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
